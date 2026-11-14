@@ -1,4 +1,4 @@
-# Lab 3 - Hệ thống nhúng
+# Lab 3 - Hệ thống nhúng - Đề 1
 
 ## Bước 1: Mở web và Wokwi từ link
 
